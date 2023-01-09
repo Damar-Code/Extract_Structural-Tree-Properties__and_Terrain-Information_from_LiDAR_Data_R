@@ -1,4 +1,4 @@
-# Extract_Structural-Tree-Properties__and_Terrain-Information_from_LiDAR_Data_R
+# Extract_Structural-Tree-Properties_and_Terrain-Information_from_LiDAR_Data_R
 
 
 
