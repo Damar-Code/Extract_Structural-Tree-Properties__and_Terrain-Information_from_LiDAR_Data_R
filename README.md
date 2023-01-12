@@ -14,7 +14,7 @@ All process in the workflow above was already automated. It is only required the
 
 The final product that necessary for 
 
-![Field Map 2](https://user-images.githubusercontent.com/60123331/212069276-7feb1373-747c-487e-9b62-455b5511c5da.png)
+![Field Map 2](https://user-images.githubusercontent.com/60123331/212081115-089681bd-b248-41ac-842f-cdc55dc52334.png)
 
 
 ![CHM](https://user-images.githubusercontent.com/60123331/212069303-2e8dfabf-870c-4d05-81a4-530d1df8951c.png)
