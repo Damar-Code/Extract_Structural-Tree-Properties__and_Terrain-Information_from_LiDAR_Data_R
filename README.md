@@ -10,3 +10,7 @@ Nowdays, LiDAR considered as the most edvance technology for forest inventory, b
 Figure 1. Workflow of LiDAR Impelmentation in Forest Inentory
 
 All process in the workflow above was already automated. It is only required the plantation boundary, structural tree models and LiDAR point cloud data with standard naming, include the name of compartment, flight date, and pilot. After putting the point cloud data in the input folder, the R code will run and all the result will distribute and store in particular folder automatically.
+
+## RESULT
+
+The final product that necessary for 
