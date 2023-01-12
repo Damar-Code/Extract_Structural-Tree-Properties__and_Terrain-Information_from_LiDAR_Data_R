@@ -12,7 +12,7 @@ All process in the workflow above was already automated. It is only required the
 
 ## RESULT
 
-The final product that necessary for 
+The final product to this project is two map, there is Distribution of High trees peformance in grid based 20x20m and second is the canopy height models map. That two product will guide the field Tree Improvement Team to find where is the location of the best tree inside the plantation. Previously this assessment is done manually, so they have to walk around the farm to find the best trees.
 
 ![Field Map 2 v2](https://user-images.githubusercontent.com/60123331/212143863-69f185c3-1966-449b-9ad8-3bd20062b5a0.png)
 
