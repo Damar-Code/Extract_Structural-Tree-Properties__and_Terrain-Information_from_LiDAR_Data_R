@@ -1,4 +1,4 @@
-# LiDAR_Implimentation_to_Identify_The_Best_Perfoming_Trees_and_Providing_The_Terrain_Information_R
+# LiDAR_Implementation_to_Identify_The_Best_Perfoming_Trees_and_Provide_its_Terrain_Information_R
 
 In a traditional way forest inventory was done by intensive sampling field survey inventory. Forest inventory provide structural tree information, such as heigh and diameter at breast height (DBH) because those two kind of data is easier to measure and have strong relationship with volume, which is importance for management. However the sampling method only cover 2% in each compartment and frequently cannot represent the real condition because the blank spot on particular place cannot be capture. Moreover, traditional forest inventory time-consuming and labor intensive.
 
