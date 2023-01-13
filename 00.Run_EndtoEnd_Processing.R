@@ -1,13 +1,10 @@
 lapply(c("lidR","RSAGA", "terra", "usethis", "devtools","sp","raster","lattice","rgdal","gstat",
          "shapefiles","foreign","sf","RColorBrewer","dplyr","tictoc","future","future.apply"), require, character.only = TRUE)
 
-list.las <- list.files(pattern=".las$")
 
 FBP_EndtoEnd <- function(las_name){
-  #i <- 1
-  #las_name = list.las[i] 
-  #las_name
-  
+
+
   ras_output = paste0("../raster/")
   shp_output = paste0("../shp/")
   
@@ -104,3 +101,13 @@ FBP_EndtoEnd <- function(las_name){
   st_write(grid.extraction, paste0(shp_output, folder_name,"/",farm_ID,"_grid.extraction.shp"))
   
 }
+
+list.las <- list.files(pattern=".las$")
+list.las
+
+for(i in 1:length(list.las)){
+         i <- 1
+         #i <- 1
+las_name = list.las[i]
+las_name
+         }
