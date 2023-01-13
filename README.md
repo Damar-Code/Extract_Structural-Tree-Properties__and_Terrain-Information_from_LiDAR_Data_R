@@ -6,7 +6,7 @@ Nowadays, LiDAR is considered the most advanced technology for forest inventory,
 
 ![Flow Chart - Copy](https://user-images.githubusercontent.com/60123331/211818931-534d1f70-f76c-4a3a-b74d-8dd9b83d7703.png)
 
-Figure 1. Workflow of LiDAR Impelmentation in Forest Inentory
+Figure 1. Workflow of LiDAR Impelmentation in Identify The Best Trees and Provide its Terrain Information
 
 All process in the workflow above was already automated. It is only required the plantation boundary, structural tree models, and LiDAR points cloud data with standard naming, including the name of the compartment, flight date, and pilot. After putting the point cloud data in the input folder, the R code will run and all the results will distribute and store in a particular folder automatically.
 
@@ -16,5 +16,8 @@ The final product of this project is two maps, their Distribution of the High tr
 
 ![Field Map 2 v2](https://user-images.githubusercontent.com/60123331/212143863-69f185c3-1966-449b-9ad8-3bd20062b5a0.png)
 
+Figure 1. Field Map of Distribution of the Best Trees Performances in Grid-Base (20x20m)
 
 ![CHM v2](https://user-images.githubusercontent.com/60123331/212147414-8754f398-b75f-493f-b858-7dcd1b235e5f.png)
+
+Figure 1. CHM Map of Distribution of the Best Trees Performances in Grid-Base (20x20m)
