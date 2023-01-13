@@ -16,8 +16,8 @@ The final product of this project is two maps, their Distribution of the High tr
 
 ![Field Map 2 v2](https://user-images.githubusercontent.com/60123331/212143863-69f185c3-1966-449b-9ad8-3bd20062b5a0.png)
 
-Figure 1. Field Map of Distribution of the Best Trees Performances in Grid-Base (20x20m)
+Figure 2. Field Map of Distribution of the Best Trees Performances in Grid-Base (20x20m)
 
 ![CHM v2](https://user-images.githubusercontent.com/60123331/212147414-8754f398-b75f-493f-b858-7dcd1b235e5f.png)
 
-Figure 1. CHM Map of Distribution of the Best Trees Performances in Grid-Base (20x20m)
+Figure 3. CHM Map of Distribution of the Best Trees Performances in Grid-Base (20x20m)
